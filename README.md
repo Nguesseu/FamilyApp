@@ -1,5 +1,5 @@
 # FamilyApp
-# Vertiefung Mobile and Ubiquitous Solutions progis
+# Vertiefung Mobile and Ubiquitous Solutions(Armand Njomo)
 
 # Bemerkung:
 Aus technischen Gründen konnte ich keine Apk mit Expo erstellen, ich hatte anhaltende Fehler beim Gradle-Build.
