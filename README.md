@@ -5,7 +5,7 @@
 Aus technischen Gründen konnte ich keine Apk mit Expo erstellen, ich hatte anhaltende Fehler beim Gradle-Build.
 
 
-# Wie kann man die App startet?
+# Wie kann man die App starten?
 
 - Node.js installieren
 - Expo Cli installieren ( npm install -g expo-cli)
